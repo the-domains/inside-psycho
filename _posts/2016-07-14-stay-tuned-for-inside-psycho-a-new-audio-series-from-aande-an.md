@@ -7,15 +7,15 @@ keywords: []
 description: >-
   Stay tuned for Inside Psycho, a new audio series from A&E and CriticsChoice,
   producers of the annual Critics' Choice Awards
-datePublished: '2016-07-14T17:31:48.260Z'
-dateModified: '2016-07-14T17:31:34.970Z'
+datePublished: '2016-07-14T17:36:02.778Z'
+dateModified: '2016-07-14T17:35:52.422Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-07-14-stay-tuned-for-inside-psycho-a-new-audio-series-from-aande-an.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-07-14-stay-tuned-for-inside-psycho-a-new-audio-series-from-aande-an.md
 url: stay-tuned-for-inside-psycho-a-new-audio-series-from-aande-an/index.html
 _type: Article
 
