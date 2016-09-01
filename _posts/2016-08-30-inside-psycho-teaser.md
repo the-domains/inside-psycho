@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-30T04:33:23.140Z'
+datePublished: '2016-08-30T04:34:51.191Z'
+sourcePath: _posts/2016-08-30-inside-psycho-teaser.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=3-vOOatNMiA'
 keywords:
   - ramsey
@@ -18,7 +19,7 @@ author:
     url: 'https://www.youtube.com/user/MarkRamseyMedia'
     avatar: {}
 via: {}
-dateModified: '2016-08-30T04:33:13.078Z'
+dateModified: '2016-08-30T04:34:50.650Z'
 title: Inside Psycho Teaser
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=3-vOOatNMiA&feature=applinks'
@@ -68,7 +69,6 @@ description: >-
   (http:/...
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-30-inside-psycho-teaser.md
 inFeed: true
 hasPage: false
 inNav: false
