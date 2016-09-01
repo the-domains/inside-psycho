@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Inside Psycho Podcast]]></title>
+        <description><![CDATA[Inside Psycho Podcast]]></description>
+        <link>https://thegrid.ai/inside-psycho/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 30 Aug 2016 04:33:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/inside-psycho/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Inside Psycho Teaser]]></title>
+            <description><![CDATA[<article><h1>Inside Psycho Teaser</h1><p>Teaser for the 6-part audio series, "Inside Psycho," about the making of the Alfred Hitchcock classic. From A&E (http://aetv.com) and Critics' Choice (http:/...</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8b5fc8e0aaea826f2a6e5b80b12065ff/croprotate.jpg?cropheight=720&cropwidth=723&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F3-vOOatNMiA%2Fmaxresdefault.jpg&x=280&y=0"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=3-vOOatNMiA</link>
+            <guid isPermaLink="false">082f45de-6f84-4d83-a2e4-ff5f705befc1</guid>
+            <pubDate>Tue, 30 Aug 2016 04:33:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fa67d25-7294-4dbd-a247-c5bc1637f5bf.jpg" alt="Coming soon...">]]></description>
+            <link>https://thegrid.ai/inside-psycho/coming-soon/index.html</link>
+            <guid isPermaLink="false">d8fcaef8-216e-42ff-a136-7ea0991de9a6</guid>
+            <pubDate>Tue, 30 Aug 2016 04:03:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
