@@ -1,20 +1,4 @@
-name: Inside Psycho
-favicon: null
-layout_spectrum: 0.99617
 typography_spectrum: 0.4878
-title: Inside Psycho - a New Audio Series from A&E and CriticsChoice.com
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#010101'
@@ -26,4 +10,20 @@ color:
   lightness: 0.09555361443199217
   saturation: 0.7777421346399933
   rhythmicContrast: 0.6871120075229555
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.99617
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Inside Psycho
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Inside Psycho Podcast
 purpose: []
