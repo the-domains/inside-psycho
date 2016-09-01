@@ -19,12 +19,19 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Mark Ramsey
+  email: ''
+  url: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/068bcf69-b892-41ed-9a62-4cd35d609c19.png
 name: Inside Psycho
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4e0eebd-7d3e-4032-a497-797d9bf7ecfb.png
 title: Inside Psycho Podcast
 description: from Wondery and Mark Ramsey Media
 purpose: []
